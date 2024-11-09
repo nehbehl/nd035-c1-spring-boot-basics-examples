@@ -50,4 +50,7 @@ Below is the mapping of folders in the current repository versus the classroom p
 
  * Update the Java version in the IntelliJ IDEA &#8594; Preferences...
  ![alt text]( https://github.com/udacity/nd035-c1-spring-boot-basics-examples/blob/master/images/Preferences.png?raw=true)
+![udacity2](https://github.com/user-attachments/assets/71bd2ab9-3a67-4a7a-9231-6c1d2809e054)
+
+
 
